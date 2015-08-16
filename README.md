@@ -1,8 +1,9 @@
 `X3D`  
-&emsp;&ensp; -------- `Scene`  
-&emsp;&ensp; -------- `Shape`  
-&emsp;&ensp;&emsp;&emsp; --------------- `appearance`  
-&emsp;&ensp; -------- `Box`
+&emsp;&emsp; -------- `Scene`  
+&emsp;&emsp; -------- `Shape`  
+&emsp;&emsp;&emsp;&emsp; --------------- `appearance`  
+&emsp;&emsp;&emsp;&emsp; --------------- `material`  
+&emsp;&emsp; -------- `Box`
 
 
 
