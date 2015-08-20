@@ -16,7 +16,7 @@
 #### Support for explicit GLSL / ComposedShader added
 The `X3D` Profile supports now explicit `GLSL shaders` utilizing the `X3D Shaders component`.  
 `H3D` ::  
---- H3D::ShaderProgram class reference  
+-- H3D::ShaderProgram class reference  
 -- H3D::ComposedShader class reference  
 -- X3D specification: Programmable shaders component
 
