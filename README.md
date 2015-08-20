@@ -47,4 +47,6 @@ GPU is given a set of 3D points (vertexes) connected into triangles.
 
 
 
-
+H3D 使用 
+ShaderPart 來使用 `glsl` shader(Fragment、Vertex)
+ComposedShader
