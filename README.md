@@ -8,7 +8,11 @@
 
 
 #### What is X3D ?
+Extensible 3D (X3D) Graphics
+X3D Graphics is the international standard for real-time 3D communication.
+
 `X3D` 是一種專為網際網路而設計的三維圖像標記語言，現階段多數的 `Direct3D` 和 `OpenGL` **GLSL** 的特效都可以實現。
+
 
 
 
