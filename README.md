@@ -20,4 +20,7 @@ The `X3D` Profile supports now explicit `GLSL shaders` utilizing the `X3D Shader
 -- H3D::ComposedShader class reference  
 -- X3D specification: Programmable shaders component
 
+Vertex Shader:
+
+
 
